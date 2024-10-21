@@ -11,7 +11,7 @@ const ModelY = () => {
     return (
         <div className='mt-28'>
             {/* Model y */}
-            <div className='relative h-auto w-auto pt-5 px-5 rounded-lg'>
+            <div className='relative h-auto w-auto pt-5 px-5 rounded-sm'>
                 <Image className='h-auto w-full rounded-lg' src={yy} alt="" />
                 <div className='absolute inset-0 flex justify-center  text-white font-bold'>
                     <div className='text-white text-center lg:pt-16  rounded-lg  flex-wrap lg:text-4xl'>
